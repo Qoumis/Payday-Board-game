@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="controller.Controller" project="phase1" 
+    file="/phase1/src/controller/Controller.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3229" y="9"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="model.Board.Board" project="phase1" file="/phase1/src/model/Board/Board.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2834" y="959"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="model.Cards.card" project="phase1" file="/phase1/src/model/Cards/card.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3622" y="1064"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="model.Cards.AdvertisementCard" project="phase1" 
+    file="/phase1/src/model/Cards/AdvertisementCard.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3249" y="1733"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="model.Cards.CharityCard" project="phase1" 
+    file="/phase1/src/model/Cards/CharityCard.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3502" y="1733"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="model.Cards.MailCard" project="phase1" 
+    file="/phase1/src/model/Cards/MailCard.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3343" y="1436"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="model.Cards.PayNeighborCard" project="phase1" 
+    file="/phase1/src/model/Cards/PayNeighborCard.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3752" y="1733"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="model.Cards.BillCard" project="phase1" 
+    file="/phase1/src/model/Cards/BillCard.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3991" y="1733"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="model.Cards.MoveCard" project="phase1" 
+    file="/phase1/src/model/Cards/MoveCard.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4206" y="1733"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="model.Cards.TakeFromNeighborCard" project="phase1" 
+    file="/phase1/src/model/Cards/TakeFromNeighborCard.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4460" y="1733"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="model.Cards.DealCard" project="phase1" 
+    file="/phase1/src/model/Cards/DealCard.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3759" y="1394"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="model.Deck.DealDeck" project="phase1" file="/phase1/src/model/Deck/DealDeck.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3334" y="1088"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="model.Deck.MailDeck" project="phase1" file="/phase1/src/model/Deck/MailDeck.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3044" y="1070"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="model.dice.dice" project="phase1" file="/phase1/src/model/dice/dice.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4272" y="1158"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="model.Player.player" project="phase1" file="/phase1/src/model/Player/player.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4015" y="979"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="model.jackpot.jackpot" project="phase1" 
+    file="/phase1/src/model/jackpot/jackpot.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2652" y="880"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="model.tile.RadioTile" project="phase1" 
+    file="/phase1/src/model/tile/RadioTile.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1352" y="1394"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="model.tile.StartTile" project="phase1" 
+    file="/phase1/src/model/tile/StartTile.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1460" y="1514"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="model.tile.BuyerTile" project="phase1" 
+    file="/phase1/src/model/tile/BuyerTile.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1628" y="1514"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="model.tile.PayDayTile" project="phase1" 
+    file="/phase1/src/model/tile/PayDayTile.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1822" y="1478"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="model.tile.LotteryTile" project="phase1" 
+    file="/phase1/src/model/tile/LotteryTile.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2014" y="1478"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="model.tile.YardSaleTile" project="phase1" 
+    file="/phase1/src/model/tile/YardSaleTile.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2206" y="1478"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="model.tile.FamilyCasinoTile" project="phase1" 
+    file="/phase1/src/model/tile/FamilyCasinoTile.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2400" y="1478"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="model.tile.tile" project="phase1" file="/phase1/src/model/tile/tile.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2268" y="1154"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="model.tile.MailTile" project="phase1" file="/phase1/src/model/tile/MailTile.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2595" y="1496"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="model.tile.SweepstakesTile" project="phase1" 
+    file="/phase1/src/model/tile/SweepstakesTile.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2789" y="1478"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="model.tile.DealTile" project="phase1" file="/phase1/src/model/tile/DealTile.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2983" y="1478"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="model.Board.RandomPosition" project="phase1" 
+    file="/phase1/src/model/Board/Board.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2814" y="1116"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="model.Deck.ReadCards" project="phase1" 
+    file="/phase1/src/model/Deck/ReadCards.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3050" y="1290"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="view.View.DealCardsListener" project="phase1" file="/phase1/src/view/View.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4209" y="442"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="view.View" project="phase1" file="/phase1/src/view/View.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4080" y="100"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="view.PlayerField.EndTurnListener" project="phase1" 
+    file="/phase1/src/view/PlayerField.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4653" y="811"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="view.PlayerField.GetLoanListener" project="phase1" 
+    file="/phase1/src/view/PlayerField.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4884" y="811"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="view.PlayerField.DiceListener" project="phase1" 
+    file="/phase1/src/view/PlayerField.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5115" y="820"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" name="view.View.MailCardsListener" project="phase1" file="/phase1/src/view/View.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="115" width="227" x="3741" y="402"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="36" language="java" name="view.PlayerField.myDealCardsListener" project="phase1" 
+    file="/phase1/src/view/PlayerField.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5346" y="811"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="37" language="java" name="view.PlayerField" project="phase1" file="/phase1/src/view/PlayerField.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4574" y="344"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="38">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="39" name="DealStack">        
+        <position height="0" width="0" x="2212" y="832"/>      
+      </attribute>      
+      <multiplicity id="40" minimum="0" maximum="1">        
+        <position height="0" width="0" x="2212" y="832"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="41">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <generalization id="42">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="24"/>  
+  </generalization>  
+  <nesting id="43">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="33"/>  
+  </nesting>  
+  <generalization id="44">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="24"/>  
+  </generalization>  
+  <association id="45">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="46" name="P2">        
+        <position height="0" width="0" x="2288" y="930"/>      
+      </attribute>      
+      <multiplicity id="47" minimum="0" maximum="1">        
+        <position height="0" width="0" x="2288" y="930"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="48">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="49" name="opponent">        
+        <position height="0" width="0" x="2288" y="930"/>      
+      </attribute>      
+      <multiplicity id="50" minimum="0" maximum="1">        
+        <position height="0" width="0" x="2288" y="930"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="51">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <dependency id="52">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="29"/>  
+  </dependency>  
+  <association id="53">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="54" name="Deck">        
+        <position height="0" width="0" x="2212" y="832"/>      
+      </attribute>      
+      <multiplicity id="55" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="2212" y="832"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="56">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="57" name="Dice">        
+        <position height="0" width="0" x="2234" y="956"/>      
+      </attribute>      
+      <multiplicity id="58" minimum="0" maximum="1">        
+        <position height="0" width="0" x="2234" y="956"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="59">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <nesting id="60">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="35"/>  
+  </nesting>  
+  <nesting id="61">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="36"/>  
+  </nesting>  
+  <association id="62">    
+    <end type="SOURCE" refId="37" navigable="false">      
+      <attribute id="63" name="Player"/>      
+      <multiplicity id="64" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="65">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="66" name="P1">        
+        <position height="0" width="0" x="2288" y="930"/>      
+      </attribute>      
+      <multiplicity id="67" minimum="0" maximum="1">        
+        <position height="0" width="0" x="2288" y="930"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="68">    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="69" name="Controller"/>      
+      <multiplicity id="70" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="71">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="29"/>  
+  </dependency>  
+  <generalization id="72">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="24"/>  
+  </generalization>  
+  <generalization id="73">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="24"/>  
+  </generalization>  
+  <generalization id="74">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="24"/>  
+  </generalization>  
+  <generalization id="75">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <nesting id="76">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="30"/>  
+  </nesting>  
+  <association id="77">    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="78" name="Player2"/>      
+      <multiplicity id="79" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="37" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="80">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="81" name="Jackpot">        
+        <position height="0" width="0" x="2212" y="832"/>      
+      </attribute>      
+      <multiplicity id="82" minimum="0" maximum="1">        
+        <position height="0" width="0" x="2212" y="832"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="83">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <generalization id="84">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <generalization id="85">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="24"/>  
+  </generalization>  
+  <association id="86">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="87" name="MailStack">        
+        <position height="0" width="0" x="2212" y="832"/>      
+      </attribute>      
+      <multiplicity id="88" minimum="0" maximum="1">        
+        <position height="0" width="0" x="2212" y="832"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="89">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="90" name="tiles">        
+        <position height="0" width="0" x="2212" y="832"/>      
+      </attribute>      
+      <multiplicity id="91" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="2212" y="832"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="92">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="24"/>  
+  </generalization>  
+  <generalization id="93">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="24"/>  
+  </generalization>  
+  <generalization id="94">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="24"/>  
+  </generalization>  
+  <generalization id="95">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="24"/>  
+  </generalization>  
+  <generalization id="96">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <association id="97">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="98" name="Deck">        
+        <position height="0" width="0" x="2212" y="832"/>      
+      </attribute>      
+      <multiplicity id="99" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="2212" y="832"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="100">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="34"/>  
+  </nesting>  
+  <association id="101">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="102" name="RejectedStack">        
+        <position height="0" width="0" x="2212" y="832"/>      
+      </attribute>      
+      <multiplicity id="103" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="2212" y="832"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="104">    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="105" name="Player1"/>      
+      <multiplicity id="106" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="37" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="107">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <dependency id="108">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="28"/>  
+  </dependency>  
+  <association id="109">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="110" name="MyDealCards">        
+        <position height="0" width="0" x="2212" y="832"/>      
+      </attribute>      
+      <multiplicity id="111" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="2212" y="832"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="112">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="32"/>  
+  </nesting>  
+  <association id="113">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="114" name="board">        
+        <position height="0" width="0" x="2212" y="832"/>      
+      </attribute>      
+      <multiplicity id="115" minimum="0" maximum="1">        
+        <position height="0" width="0" x="2212" y="832"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
